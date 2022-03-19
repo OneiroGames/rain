@@ -1,8 +1,5 @@
-########################################################
-###       Copyright (c) 2019-2022 ONEIRO GAMES       ###
-###                 Version: 1.0.0                   ###
-###             Description: RAIN SETTINGS           ###
-########################################################
+# Copyright (c) Oneiro Games. All Rights Reserved.
+# Licensed under the GPL License, Version 3.0.
 
 init:
     image rain_particle_large = "rain/images/rain/rain_large.png"
