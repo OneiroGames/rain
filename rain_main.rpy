@@ -1,8 +1,5 @@
-########################################################
-###       Copyright (c) 2019-2022 ONEIRO GAMES       ###
-###                 Version: 1.0.0                   ###
-###             Description: RAIN MAIN               ###
-########################################################
+# Copyright (c) Oneiro Games. All Rights Reserved.
+# Licensed under the GPL License, Version 3.0.
 
 label oneiro_rain:
     scene black with dissolve
